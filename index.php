@@ -10,8 +10,8 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti sint iure, dolorem nihil hic doloribus in eum necessitatibus et omnis culpa nemo soluta dignissimos unde odio aut eaque, dolores animi!</p>
     <ul>
         <li>baris pertama</li>
-        <li>baris kedua dari branch dummy</li></li>
-        <li>baris ketiga dari branch dummy<li>baris kedua dari branch main hehe</li>
+        <li>baris kedua dari branch main</li></li>
+        <li>baris ketiga dari branch main</li>
     </ul>
 </body>
 </html>
