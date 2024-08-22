@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ubah tittle ini dari branch main</title>
+    <title>Edit tittle branch dummy-b</title>
 </head>
 <body>
     <h1>Hello World!</h1>
